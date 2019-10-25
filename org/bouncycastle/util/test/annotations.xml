@@ -1,0 +1,5 @@
+<root>
+    <item name='org.bouncycastle.util.test.TestFailedException'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
